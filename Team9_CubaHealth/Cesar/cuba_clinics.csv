@@ -1,0 +1,6 @@
+Facility,Type,Distance,PrimaryCare,Dental,BehavioralHealth,Pharmacy,Optometry,Emergency,Inpatient,WhoItServes
+PMS Cuba Health Center,Community health center,In town,1,1,1,1,0,0,0,General public
+PMS Cuba School-Based Health Center,School-based clinic,In town,1,0,0,0,0,0,0,School-age students
+Jemez Health and Human Services,Tribal health center (Jemez Pueblo),about 30 mi,1,1,1,0,1,0,0,Jemez Pueblo members
+Zia Health Clinic,IHS clinic (Zia Pueblo),Nearby,1,0,0,0,0,0,0,Zia Pueblo members
+UNM Sandoval Regional Medical Center,Hospital (Rio Rancho),71 mi,0,0,0,0,0,1,1,General public
