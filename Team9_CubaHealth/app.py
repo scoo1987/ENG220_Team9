@@ -12,7 +12,7 @@ st.title("Team 9: Cuba Community Health")
 REPO = Path(__file__).resolve().parent
 
 # Change this if your parent project folder has a different name.
-PROJECT = REPO / "Team9_CubaHealth"
+PROJECT = REPO 
 
 if not PROJECT.is_dir():
     st.error(
